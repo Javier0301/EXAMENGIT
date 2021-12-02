@@ -1,4 +1,4 @@
-PROGRAMA ALMACENAMIENTO DE DATOS DE ALUMNOS DE UNA CLASE
+﻿PROGRAMA ALMACENAMIENTO DE DATOS DE ALUMNOS DE UNA CLASE
 ========================================================
 
 MANUAL DE INSTRUCCIONES
@@ -10,3 +10,6 @@ Este fastuoso programa permite almacenar los nombres de los alumnos de una clase
 LISTA DE VERSIONES
 ------------------
 1.0 - El programa permite procesar hasta 10 alumnos
+
+
+Hola buenos dias
