@@ -12,4 +12,6 @@ LISTA DE VERSIONES
 1.0 - El programa permite procesar hasta 10 alumnos
 
 
-Hola buenos dias
+Hola buenos días
+VERSION 3.0: el programa permite ahora al usuario indicar el número de alumnos que hay en clase
+
