@@ -1,11 +1,11 @@
 Proceso ProgramaGIT
-	
+	//javier ceballos
 	// Programa para almacenar los nombres de los alumnos de una clase y listarlos posteriormente
 	
 	Definir i como entero;
 	Definir nombre Como Caracter;
 	
-
+	
 	Dimension nombre[10];    // el VEctor para guardar los nombres, mi programa solo permite guardar 10 alumnos en esta versión inicial
 	
 	Para i<-0 hasta 10
